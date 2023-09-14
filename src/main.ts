@@ -1,5 +1,5 @@
 import './style.css'
-import './ejemplo-ts/04-destructuracion -arre.ts'      //LINEA IMPORTADA
+import './ejemplo-ts/05-desestructura-funciones.ts'      //LINEA IMPORTADA
 import typescriptLogo from './typescript.svg'
 import viteLogo from '/vite.svg'
 import { setupCounter } from './counter.ts'
